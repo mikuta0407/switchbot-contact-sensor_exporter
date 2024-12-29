@@ -1,0 +1,12 @@
+# HELP battery Battery level
+# TYPE battery gauge
+battery{location="outdoor",mac="f7:76:a8:06:b0:c7"} 100
+# HELP leave_open Leave open
+# TYPE leave_open gauge
+leave_open{location="outdoor",mac="f7:76:a8:06:b0:c7"} 0
+# HELP open Open
+# TYPE open gauge
+open{location="outdoor",mac="f7:76:a8:06:b0:c7"} 0
+# HELP time Time
+# TYPE time gauge
+time{location="outdoor",mac="f7:76:a8:06:b0:c7"} 11

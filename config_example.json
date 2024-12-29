@@ -1,0 +1,12 @@
+{
+  "Sensors": {
+    "f7:76:a8:xx:xx:xx": {
+      "Labels": [
+        {
+          "Name": "location",
+          "Value": "kitchen"
+        }
+      ]
+    }
+  }
+}
