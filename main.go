@@ -1,6 +1,6 @@
 /*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
-
+Copyright © mikuta0407
+Copyright © Tadas Ustinavičius
 */
 package main
 
